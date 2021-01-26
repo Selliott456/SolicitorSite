@@ -1,3 +1,3 @@
 # SolicitorSite
 
-This is a website build using reac for a private client
+This is a website build using react for a private client
